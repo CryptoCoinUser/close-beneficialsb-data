@@ -56,8 +56,10 @@
         Company to Bank has been paid in full), and waives any right to enforce
         any remedy which Bank now has or may hereafter have against Company or
         any other person or entity, and any benefit of, and any right to
-        participate in, any security now or hereafter held by Bank, (vii) waives
-        the benefit of any statute of limitation affecting liability hereunder
+        participate in, any security now or hereafter held by Bank
+      </li>
+      <li>
+        Waives the benefit of any statute of limitation affecting liability hereunder
         or enforcement thereof
       </li>
       <li>
@@ -66,11 +68,11 @@
         in the possession of or on deposit with Bank
       </li>
       <li>
-        agrees any Indebtedness now or hereafter held by Guarantor is hereby
+        Agrees any Indebtedness now or hereafter held by Guarantor is hereby
         subordinated to the Indebtedness of Company to Bank
       </li>
       <li>
-        Arees to pay all costs incurred by Bank in the enforcement of this
+        Agrees to pay all costs incurred by Bank in the enforcement of this
         Guaranty and/or in collecting any or all of the Indebtedness, including
         reasonable attorneys' fees
       </li>
