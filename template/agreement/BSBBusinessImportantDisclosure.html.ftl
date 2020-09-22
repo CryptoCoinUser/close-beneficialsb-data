@@ -93,9 +93,13 @@
 					<td>Transaction Fees:</td>
 					<td></td>
 				</tr>
-				<tr>
+				<tr class="noBorderBottom">
 					<td class="alignTop">• Foreign Transaction</td>
 					<td><b class='apr'>1.5%</b> of each transaction after conversion to U.S. Dollars.</td>
+				</tr>
+				<tr>
+					<td class="alignTop">• Balance Transfer</td>
+					<td><b class='apr'>1.5%</b> of each balance transfer, with a minimum of $15.</td>
 				</tr>
 				<tr class="noBorderBottom">
 					<td>Penalty Fees:</td>
