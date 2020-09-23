@@ -64,15 +64,11 @@
 			</tr>
 			<tr>
 				<td class='bold'>Cash Advances and Balance Transfers</td>
-				<td>Neither cash advances nor balance transfers are available for the Business Credit Card at this time.</td>
+				<td>Cash advances are not available for business credit card at this time. Your APR will be<br /><b class='apr'>9.74%</b> for unsecured and <b class='apr'>8.74%</b> for cash secured balance transfers. This APR will vary with the market based on the Prime Rate.</td>
 			</tr>
 			<tr>
 				<td class='bold'>How to Avoid Paying Interest on Purchases</td>
-				<td>Your due date is 25 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month.</td>
-			</tr>
-			<tr>
-				<td class='bold'>For Credit Card Tips from the Consumer Financial Protection Bureau</td>
-				<td>To learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at<br /> <a target="_blank" rel="noopener noreferrer" href="http://www.consumerfinance.gov/learnmore">http://www.consumerfinance.gov/learnmore</a></td>
+				<td>Your due date is 25 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month. We will be charging interest on balance transfer on the transaction date.</td>
 			</tr>
 			</tbody>
 		</table>
