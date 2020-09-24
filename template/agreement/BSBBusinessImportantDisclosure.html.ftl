@@ -112,7 +112,7 @@
 			</tbody>
 		</table>
 		<section class="section">
-			<p><b>How will we calculate your balance?</b> We will use a method called “average daily balance (including new purchases).” See your Business Credit Card agreement for more details.</p>
+			<p><b>How We Will Calculate Your Balance:</b> We will use a method called “average daily balance (including new purchases).” See your Business Credit Card agreement for more details.</p>
 			<p>A margin of 6.49% for unsecured and 5.49% for secured Business Credit Cards will be added to the Prime Rate for all transactions.</p>
 			<p>The Daily Periodic Rate as of July 8, 2020 for unsecured credit card transactions is 0.02668% and 0.02395% for secured credit card transactions.</p>
 			<p>The Prime Rate as of July 8, 2020 is 3.25%.</p>
