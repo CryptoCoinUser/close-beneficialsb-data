@@ -1,4 +1,9 @@
-<h2>Authorization</h2>
+  <style>
+    .center {
+      text-align: center;
+    }
+  </style>
+<h2 class="center">Authorization</h2>
 
 <p>If Beneficial State Bank (“Bank”) approves this Application, Company agrees, with respect to all
 	cards issued by Bank, to all the terms and conditions of all applicable agreements for the

@@ -1,4 +1,10 @@
-<h2>Authorization</h2>
+  <style>
+    .center {
+      text-align: center;
+    }
+  </style>
+
+<h2 class="center">Authorization</h2>
 
 <p>PLEASE READ THE FOLLOWING CAREFULLY BEFORE SIGNING:</p>
 

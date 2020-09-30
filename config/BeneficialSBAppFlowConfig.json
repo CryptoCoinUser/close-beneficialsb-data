@@ -1,6 +1,6 @@
 {
   "config": {
-    "regulationO": true,
+    "regulationO": false,
     "balanceTransferNameOnAccount": true,
     "businessCardNameValidation": true,
     "authorizedUser": true,
@@ -14,12 +14,12 @@
     "customerVerification": false,
     "showCountryOfCitizenship": true,
     "wisconsinTattleTale": true,
-    "coApplicant": true,
-    "personalAmountRequested": true,
+    "coApplicant": false,
+    "personalAmountRequested": false,
     "addressDurationYears": 2,
     "previousAddress": true,
     "mailingAddress": true,
-    "mothersMaidenName": false,
+    "mothersMaidenName": true,
     "personalIdMechShow": true,
     "personalIdMechRequire": true,
     "employmentOccupation": true,
