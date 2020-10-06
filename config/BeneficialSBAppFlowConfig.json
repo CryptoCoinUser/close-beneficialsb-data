@@ -56,5 +56,8 @@
     "clientManager": true
   },
 
-  "lang": {}
+  "lang": {
+	"appResultsBusiness": "We are reviewing your application and will notify you of our decision. We may also reach out to you for additional information. Please do not re-submit your application.",
+    "appResultsPersonal": "$t(appResultsBusiness)"
+  }
 }
