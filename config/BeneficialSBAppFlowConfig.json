@@ -4,7 +4,7 @@
     "balanceTransferNameOnAccount": true,
     "businessCardNameValidation": true,
     "authorizedUser": true,
-    "authorizedUserAddress": false,
+    "authorizedUserAddress": true,
     "authorizedUserContact": false,
     "authorizedUserVerification": true,
     "branchNumberMin": 15,
