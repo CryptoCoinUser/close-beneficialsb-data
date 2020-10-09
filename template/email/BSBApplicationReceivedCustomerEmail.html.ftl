@@ -81,7 +81,7 @@
 
         <p>
             Sincerely, <br />
-            Bank Cards Department
+           Beneficial State Bank
         </p>
 
     </div>
