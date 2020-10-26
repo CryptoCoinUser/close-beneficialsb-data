@@ -36,6 +36,7 @@
     "personalBalanceTransfer": true,
 
     "showBeneficialOwnerCert": true,
+    "showBusinessSupportingDocumentsSection": true,
     "naicsCode": true,
     "spendingLimitRounding": true,
     "businessContactPerson": true,
