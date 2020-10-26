@@ -5,6 +5,7 @@
     "businessCardNameValidation": true,
     "authorizedUser": true,
     "authorizedUserAddress": true,
+	  "authorizedUserAddressDuration": true,
     "authorizedUserContact": false,
     "authorizedUserVerification": true,
     "branchNumberMin": 15,
