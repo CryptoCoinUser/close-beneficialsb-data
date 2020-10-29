@@ -53,6 +53,7 @@
     "beneficialOwnerControllingManagerSteps": true,
     "beneficialOwnerIdMech": true,
     "businessBalanceTransfer": true,
+    "businessSpendPerMonth": true,
     "authorizedSignerVerification": true,
     "authorizedSignerEmail": true,
     "clientManager": true
