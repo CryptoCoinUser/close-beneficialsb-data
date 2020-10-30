@@ -55,24 +55,24 @@
 			<tbody>
 			<tr>
 				<th colspan="2">
-				Interest Rates and Interest Charges
+					Interest Rates and Interest Charges
 				</th>
 			</tr>
 			<tr>
 				<td class='bold'>Annual Percentage Rate (APR) for Purchases</td>
-				<td>Your APR will be <b class='apr'>11.65%</b> to <b class='apr'>21.45%</b> for Visa Signature credit card, based on your creditworthiness when you open your account.<br /><br />
+				<td>Your APR will be <b class='apr'>11.65%</b> to <b class='apr'>21.45%</b> for Visa Signature and Visa Platinum credit card, based on your creditworthiness when you open your account.<br /><br />
 					The APRs above will vary with the market based on the U.S. Prime Rate.
 				</td>
 			</tr>
 			<tr>
 				<td class='bold'>APR for Balance Transfers</td>
-				<td>Your APR will be <b class='apr'>11.65%</b> to <b class='apr'>21.45%</b> for Visa Signature, based on your creditworthiness when you open your account.<br /><br />
+				<td>Your APR will be <b class='apr'>11.65%</b> to <b class='apr'>21.45%</b> for Visa Signature and Visa Platinum, based on your creditworthiness when you open your account.<br /><br />
 					The APRs above will vary with the market based on the U.S. Prime Rate.
 				</td>
 			</tr>
 			<tr>
 				<td class='bold'>APR for Cash Advances</td>
-				<td>Your APR will be <b class='apr'>18.25%</b> to <b class='apr'>23.25%</b> for Visa Signature credit card, based on your creditworthiness when you open your account.<br /><br />
+				<td>Your APR will be <b class='apr'>18.25%</b> to <b class='apr'>23.25%</b> for Visa Signature and Visa Platinum credit card, based on your creditworthiness when you open your account.<br /><br />
 					The APRs above will vary with the market based on the U.S. Prime Rate.
 				</td>
 			</tr>
@@ -149,8 +149,8 @@
 		</section>
 		<section>
 			<h3>Notices and Disclosures</h3>
-			<p><b>*The minimum credit limit, provided you meet the terms and conditions of a Visa Platinum Credit Card and Beneficial State Bank's underwriting criteria, is $500. For Visa Signature Card and Beneficial State Bank's underwriting criteria, is $5,000. You agree that the Beneficial State Bank will determine the amount of credit extended in its sole discretion, as well as which product you qualify for, based on the Beneficial State Bank's underwriting criteria. If you do not qualify for the product or pricing requested or for the lowest pricing offered, you authorize the Beneficial State Bank to grant you the product and pricing for which you do qualify.</b></p>
-			<p><b>REWARDS PROGRAM: The Rewards Program is only offered for the Visa Signature Credit Card. If you are approved for a Visa Signature Credit Card, you and each authorized user agree to the terms and conditions of the Rewards Program which will be mailed to you upon approval.</b></p>
+			<p><sup>*</sup>The minimum credit limit, provided you meet the terms and conditions of a Visa Platinum Credit Card and Beneficial State Bank's underwriting criteria, is $500. For Visa Signature Card and Beneficial State Bank's underwriting criteria, is $5,000. You agree that the Beneficial State Bank will determine the amount of credit extended in its sole discretion, as well as which product you qualify for, based on the Beneficial State Bank's underwriting criteria. If you do not qualify for the product or pricing requested or for the lowest pricing offered, you authorize the Beneficial State Bank to grant you the product and pricing for which you do qualify.</p>
+			<p><b>REWARDS PROGRAM:</b> The Rewards Program is only offered for the Visa Signature Credit Card. If you are approved for a Visa Signature Credit Card, you and each authorized user agree to the terms and conditions of the Rewards Program which will be provided on the rewards website once you are approved and registered on the website.</p>
 			<p><b>USA Patriot Act</b> - In accordance with the USA Patriot Act, all persons are subject to identity verification requirements. If you request to open an account (any formal banking relationship including deposits, loans, safe deposits, trusts, etc.) the Bank will request documenta- ry verification of your identity and will perform appropriate background checks.</p>
 			<p><b>State Law Disclosures</b> - All Accounts, including California and Utah Residents: As required by law, you are hereby notified that a negative credit report reflecting on your credit record may be submitted to a credit reporting agency if you fail to fulfill the terms of your credit obligations. California Residents: The applicant, if married, may apply for a separate account. After credit approval, each applicant shall have the right to use this account to the extent of any credit limit set by the creditor and each applicant may be liable for all amounts of credit extended under this account to each joint applicant. Wisconsin Residents: Your signature confirms that this loan obligation is being incurred in the interest of your marriage or family. No provision of any marital property agreement, unilateral statement or court de- cree adversely affects a creditor’s interest unless, prior to the time the credit is granted, the creditor is furnished a copy of the agreement, statement or decree or has actual knowledge of the adverse provision. New York, Rhode Island and Vermont Residents: We may obtain at any time your credit reports, for any legitimate purpose associated with the Account or the application or request for an Account, including but not limited to reviewing, modifying, renewing and collecting on your Account. On your request, you will be informed if such a report was ordered. If so, you will be given the name and address of the consumer reporting agency furnishing the report. New York residents may contact the New York State Department of Financial Services to obtain a comparative listing of credit card rates, fees and grace periods. New York State Department of Financial Services - (800) 342-3736 or https://www.dfs.ny.gov/. Ohio Residents: The Ohio laws against discrimination require that all creditors make credit equally available to all credit-worthy customers and that credit reporting agencies maintain separate credit histories on each individual upon request. The Ohio Civil Rights Commission administers compliance with the law.</p>
 		</section>
