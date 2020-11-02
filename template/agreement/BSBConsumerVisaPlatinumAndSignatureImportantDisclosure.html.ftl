@@ -60,7 +60,7 @@
 			</tr>
 			<tr>
 				<td class='bold'>Annual Percentage Rate (APR) for Purchases</td>
-				<td>Your APR will be <b class='apr'>11.65%</b> to <b class='apr'>21.45%</b> for Visa Signature and Visa Platinum credit card, based on your creditworthiness when you open your account.<br /><br />
+				<td>Your APR will be <b class='apr'>11.65%</b> to <b class='apr'>21.45%</b> for Visa Signature and Visa Platinum credit cards, based on your creditworthiness when you open your account.<br /><br />
 					The APRs above will vary with the market based on the U.S. Prime Rate.
 				</td>
 			</tr>
@@ -72,7 +72,7 @@
 			</tr>
 			<tr>
 				<td class='bold'>APR for Cash Advances</td>
-				<td>Your APR will be <b class='apr'>18.25%</b> to <b class='apr'>23.25%</b> for Visa Signature and Visa Platinum credit card, based on your creditworthiness when you open your account.<br /><br />
+				<td>Your APR will be <b class='apr'>18.25%</b> to <b class='apr'>23.25%</b> for Visa Signature and Visa Platinum credit cards, based on your creditworthiness when you open your account.<br /><br />
 					The APRs above will vary with the market based on the U.S. Prime Rate.
 				</td>
 			</tr>
