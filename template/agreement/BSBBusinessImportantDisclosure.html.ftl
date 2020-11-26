@@ -68,7 +68,7 @@
 			</tr>
 			<tr>
 				<td class='bold'>How to Avoid Paying Interest on Purchases</td>
-				<td>Your due date is 25 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month.</td>
+				<td>Your due date is 25 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month. We will be charging you interest on balance transfers on the transaction date</td>
 			</tr>
 			<tr>
 				<td class='bold'>For Credit Card Tips from the Consumer Financial Protection Bureau</td>
@@ -99,7 +99,7 @@
 				</tr>
 				<tr>
 					<td class="alignTop">• Balance Transfer</td>
-					<td><b class='apr'>1.5%</b> of each balance transfer, with a minimum of $15.</td>
+					<td><b class='apr'>1.5%</b> of each balance transfer, with a minimum of <b class='apr'>$15.</b></td>
 				</tr>
 				<tr class="noBorderBottom">
 					<td>Penalty Fees:</td>
