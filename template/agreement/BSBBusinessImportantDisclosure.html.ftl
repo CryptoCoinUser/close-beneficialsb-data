@@ -68,7 +68,7 @@
 			</tr>
 			<tr>
 				<td class='bold'>How to Avoid Paying Interest on Purchases</td>
-				<td>Your due date is 25 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month.</td>
+				<td>Your due date is 25 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month. We will be charging you interest on balance transfers on the transaction date</td>
 			</tr>
 			<tr>
 				<td class='bold'>For Credit Card Tips from the Consumer Financial Protection Bureau</td>
