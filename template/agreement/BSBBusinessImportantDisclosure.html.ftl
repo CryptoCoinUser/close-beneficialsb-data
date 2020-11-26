@@ -64,7 +64,7 @@
 			</tr>
 			<tr>
 				<td class='bold'>Cash Advances and Balance Transfers</td>
-				<td>Neither cash advances nor balance transfers are available for the Business Credit Card at this time.</td>
+				<td>Cash advances are not available for Business Credit Card at this time. Your balance transfer APR will be <b class='apr'>9.74%</b> for unsecured and <b class='apr'>8.74%</b> for cash secured Commercial Credit Card accounts. This APR will vary with the market based on the Prime Rate.</td>
 			</tr>
 			<tr>
 				<td class='bold'>How to Avoid Paying Interest on Purchases</td>
