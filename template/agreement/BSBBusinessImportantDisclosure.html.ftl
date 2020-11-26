@@ -99,7 +99,7 @@
 				</tr>
 				<tr>
 					<td class="alignTop">• Balance Transfer</td>
-					<td><b class='apr'>1.5%</b> of each balance transfer, with a minimum of $15.</td>
+					<td><b class='apr'>1.5%</b> of each balance transfer, with a minimum of <b class='apr'>$15.</b></td>
 				</tr>
 				<tr class="noBorderBottom">
 					<td>Penalty Fees:</td>
