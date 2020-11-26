@@ -64,11 +64,11 @@
 				</tr>
 				<tr>
 					<td class='bold'>Cash Advances and Balance Transfers</td>
-					<td>Neither cash advances nor balance transfers are available for the Commercial Credit Card.</td>
+					<td>Cash advances are not available for Commercial Credit Card at this time. Your balance transfer APR will be <b class='apr'>9.65%</b> for unsecured and <b class='apr'>8.65%</b> for cash secured Commercial Credit Card accounts. This APR will vary with the market based on the Prime Rate.</td>
 				</tr>
 				<tr>
 					<td class='bold'>How to Avoid Paying Interest on Purchases</td>
-					<td>Your due date is 25 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month.</td>
+					<td>Your due date is 25 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month. We will be charging you interest on balance transfers on the transaction date.</td>
 				</tr>
 			</tbody>
 		</table>
@@ -89,9 +89,13 @@
 					<td>Transaction Fees:</td>
 					<td></td>
 				</tr>
-				<tr>
+				<tr class="noBorderBottom">
 					<td class="alignTop">• Foreign Transaction</td>
 					<td><b class='apr'>1.5%</b> of each transaction after conversion to U.S. Dollars.</td>
+				</tr>
+				<tr>
+					<td class="alignTop">• Balance Transfer</td>
+					<td><b class='apr'>1.5%</b> of each balance transfer, with minimum of <b class='apr'>$5</b></td>
 				</tr>
 				<tr class="noBorderBottom">
 					<td>Penalty Fees:</td>
@@ -108,14 +112,14 @@
 			</tbody>
 		</table>
 		<section class="section">
-			<p><b>How will we calculate your balance:</b> We will use a method called “average daily balance (including new purchases).” See your Commercial Credit Card agreement for more details.</p>
-			<p>A margin of 6.4% for unsecured and 5.4% for secured Commercial Credit Cards will be added to the Prime Rate for all transactions.</p>
+			<p><b>How will we calculate your balance:</b> We will use a method called “average daily balance (including new purchases).” See your Commercial Credit Card Services Agreement for more details.</p>
+			<p>A margin of 6.4% for unsecured and 5.4% for secured commercial credit cards will be added to the Prime Rate for all transactions.</p>
 			<p>The Daily Periodic Rate as of July 8, 2020 for unsecured credit card transactions is 0.02644%. and 0.02370% for secured credit card transactions.</p>
 			<p>The Prime Rate as of July 8, 2020 is 3.25%.</p>
 			<p>Information about your rights to dispute transactions and how to exercise those rights is provided in your Business Credit Card agreement.</p>
-			<p>Each Commercial Credit Card issued in connection with this Application will be governed by the terms and conditions in effect at the time each Commercial Credit Card is issued. We may change any other terms of your account, including, but not limited to, the APR, any fees, credit limits, and permitted cardholders, at any time. If we change any of these terms, we will notify you in writing if required by applicable law.<p>
+			<p>Each commercial credit card issued in connection with this Application will be governed by the terms and conditions in effect at the time each commercial credit card is issued. We may change any other terms of your account, including, but not limited to, the APR, any fees, credit limits, and permitted cardholders, at any time. If we change any of these terms, we will notify you in writing if required by applicable law.<p>
 			<p>By submitting this Application, Company authorizes Bank at any time and from time to time to file in any relevant jurisdiction any and all Uniform Commercial Code financing statements (including fixture filings) and amendments thereto deemed necessary or appropriate by the Bank naming the Company as "debtor" to perfect any security interest granted or to be granted in all of the property, assets and fixtures of Company, without obtaining a signature from the Company or any of its representatives and without any additional consent or authorization from Company or any of its representatives. Such financing statements may identify all collateral of Company. Company hereby acknowledges and agrees that the filing of any such financing statements in no way obligates the Bank to close any loan transaction or to fund any loans or other financial accommodations requested by Company. If no loan is entered into by the parties, the Bank may terminate any financing statement filed.</p>
-			<p>The above information about the costs of the cards described in this application is accurate as of April 29, 2020. This information may change after this date and may not be comprehensive. For additional information, please see the Commercial Credit Card Agreement for all terms and conditions.</p>
+			<p>The above information about the costs of the cards described in this application is accurate as of July 8, 2020. This information may change after this date and may not be comprehensive. For additional information, please see the Commercial Credit Card Services Agreement for all terms and conditions.</p>
 			<p>Visa is a registered trademark of Visa International Service Association.</p>
 		</section>
 	</div>
