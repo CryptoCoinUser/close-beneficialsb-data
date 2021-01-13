@@ -11,6 +11,7 @@
     "branchNumberMin": 15,
     "salesRep": true,
     "allowedStates": ["CA", "OR", "WA"],
+    "onlyUsPassports": true,
 
     "customerVerification": false,
     "showCountryOfCitizenship": true,
@@ -60,6 +61,20 @@
   },
   "lang": {
     "appResultsPersonal": "We are reviewing your application and will notify you of our decision. We may also reach out to you for additional information. Please do not re-submit your application. <br /><br />  For more information on Beneficial State Bank’s Products and Services, please visit <a href='https://beneficialstatebank.com/'>https://beneficialstatebank.com</a>",
-    "appResultsBusiness": "$t(appResultsPersonal)"
+    "appResultsBusiness": "$t(appResultsPersonal)",
+    "idTypeOptions": [
+      {
+        "label": "U.S. Driver’s License",
+        "value": "PtidDriverLicense"
+      },
+      {
+        "label": "U.S. State Issued Identification",
+        "value": "PtidStateId"
+      },
+      {
+        "label": "U.S. Passport",
+        "value": "PtidPassport"
+      }
+    ]
   }
 }
