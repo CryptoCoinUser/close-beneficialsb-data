@@ -36,6 +36,7 @@
     "relationToApplicant": true,
     "personalBalanceTransfer": true,
 
+    "businessAmountRequested": false,
     "showBeneficialOwnerCert": true,
     "showBusinessSupportingDocumentsSection": true,
     "naicsCode": true,
