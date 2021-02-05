@@ -63,6 +63,7 @@
   "lang": {
     "appResultsPersonal": "We are reviewing your application and will notify you of our decision. We may also reach out to you for additional information. Please do not re-submit your application. <br /><br />  For more information on Beneficial State Bank’s Products and Services, please visit <a href='https://beneficialstatebank.com/'>https://beneficialstatebank.com</a>",
     "appResultsBusiness": "$t(appResultsPersonal)",
+    "scrollAndCheckAgree": "Please read and scroll to the end. Click \"Agree and Continue\" to electronically sign the Agreement and then view the next Agreement.",
     "idTypeOptions": [
       {
         "label": "U.S. Driver’s License",
